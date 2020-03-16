@@ -38,8 +38,8 @@ int screenH = 64;
 int CenterX = screenW / 2;
 int CenterY = ((screenH - 16) / 2) + 16;   // top yellow part is 16 px height
 //Wifi ssid ve password
-const char *ssid = "NetMASTER Uydunet-140C";
-const char *password = "zx1982.c";
+const char *ssid = "wifi ssid";
+const char *password = "wifi password";
 //++++++++++++++
 
 #include <RTClib.h>
