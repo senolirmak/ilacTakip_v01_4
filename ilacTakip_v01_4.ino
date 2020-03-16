@@ -1,9 +1,8 @@
-// Visual Micro is in vMicro>General>Tutorial Mode
-// 
+ 
 /*
-	Name:       ilac_01_3.ino
+	Name:	ilacTakip_v01_4.ino
 	Created:	17.01.2020 22:05:38
-	Author:     DESKTOP-K64EUL3\senol
+	Author: ¿enol IRMAK
 */
 
 //#define _TASK_SLEEP_ON_IDLE_RUN
